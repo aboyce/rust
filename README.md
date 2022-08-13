@@ -4,8 +4,14 @@ Code and notes from learning Rust via the [Official Rust Book](https://doc.rust-
 
 To open the book locally:
 
-```
+```bash
 rustup docs --book
+```
+
+To get documentation for any of the crates you have in your project:
+
+```bash
+cargo doc --open
 ```
 
 #### Progress
