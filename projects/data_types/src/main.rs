@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("data_types");
 
     // Scalar Types
     let _eight_bit: u8 = 1;
