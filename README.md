@@ -10,7 +10,7 @@ rustup docs --book
 
 #### Progress
 
-Up to [here](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
+Up to [here](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 
 ### Other Books
 
