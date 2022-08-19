@@ -16,7 +16,7 @@ cargo doc --open
 
 #### Progress
 
-Up to [here](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+Up to [here](https://doc.rust-lang.org/book/ch05-00-structs.html)
 
 ### Other Books
 
