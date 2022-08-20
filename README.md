@@ -16,7 +16,7 @@ cargo doc --open
 
 #### Progress
 
-Up to [here](https://doc.rust-lang.org/book/ch05-00-structs.html)
+Up to [here](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
 
 ### Other Books
 
