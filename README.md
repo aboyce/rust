@@ -16,7 +16,7 @@ cargo doc --open
 
 #### Progress
 
-Up to [here](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
+Up to [here](https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator)
 
 ### Other Books
 
